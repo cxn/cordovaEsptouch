@@ -1,0 +1,27 @@
+{
+  "name": "cordovaEsptouch",
+  "version": "0.0.1",
+  "description": "cordova EspTouch for esp8266",
+  "cordova": {
+    "id": "com.icubespace.cordova_esptouch",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxn/cordovaEsptouch.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "cxn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxn/cordovaEsptouch/issues"
+  },
+  "homepage": "https://github.com/cxn/cordovaEsptouch#readme"
+}
